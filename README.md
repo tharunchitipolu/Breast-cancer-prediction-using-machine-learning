@@ -16,9 +16,9 @@ Ten real-valued features are computed for each cell nucleus:
     texture (standard deviation of gray-scale values)
     perimeter
     area
-    smoothness (local variation in radius lengths)
-    compactness (perimeter² / area — 1.0)
-    concavity (severity of concave portions of the contour)
+    smoothness 
+    compactness 
+    concavity 
     concave points (number of concave portions of the contour)
     symmetry
     fractal dimension 
